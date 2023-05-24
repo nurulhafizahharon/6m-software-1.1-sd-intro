@@ -27,7 +27,7 @@ elementThree {
 
 4. What is the css selector of the fourth element?
 ```
-body > div:nth-child(6)
+div:nth-child(6)
 ```
 
 5. What is the code you use to keep the blue box within the purple?
